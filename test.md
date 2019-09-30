@@ -5,4 +5,7 @@ The loyalty program is a feature implemented in the CashRegister program which a
 After the last item has been added to the checkout, a prompy will display with the following options underneath:
 
     Do you have a UniSA Loyatly Card?
-    Y - Yes | C - Create, Enter - Skip
+    > Y - Yes | C - Create, Enter - Skip
+
+* (1) Y - Yes
+ **

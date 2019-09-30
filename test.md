@@ -7,5 +7,6 @@ After the last item has been added to the checkout, a prompy will display with t
     Do you have a UniSA Loyatly Card?
     > Y - Yes | C - Create, Enter - Skip
 
-* (1) Y - Yes
- **
+*(1) Y - Yes
+ **User will be prompted to enter in the membership number
+ **If the username 

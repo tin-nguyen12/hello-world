@@ -1,6 +1,5 @@
 # Cash Register Manual  
-The cash register software is a program that allows users to process transacation of various items such as groceries.  
-Hello
+The cash register software is a program that allows users to process transacation of various items such as groceries. It includes several important featues such as: an in-built loyalty program where customers can earn points for spending, multiple payment options, printing of receipts (if requested), and an automatically generated summary report of the transacations processed. The software also includes a secure authorisation systems where only authorised users can access the software. 
 
 
 

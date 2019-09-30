@@ -8,9 +8,9 @@ After the last item has been added to the checkout, a prompy will display with t
     > Y - Yes | C - Create, Enter - Skip
 
 * (1) Y - Yes
- ** User will be prompted to enter in the membership number.
- ** If the username exists, the loyatly points will be added and it will return back to the cash register program.
- ** If the username does not exist, it will ask if the user would like to create an account (see below).
+  ** User will be prompted to enter in the membership number.
+  ** If the username exists, the loyatly points will be added and it will return back to the cash register program.
+  ** If the username does not exist, it will ask if the user would like to create an account (see below).
 
 * (2) C - Create
  ** User will be prompted to enter in the customer's name

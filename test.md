@@ -1,5 +1,35 @@
-###Loyatly Program
+# hello, This is Markdown Live Preview
 
-The loyalty program is a feature implemented in the CashRegister program which allows customer to have a loyatly account. The amount of loyalty points that can be accrued depends on how much was spent. In this case, it is 1 point for every $10 spent. The program keeps track of the customers that are part of the loyalty program, their membership number, and their current balance. Users of the software will be given the choice to enter a membership number (to update their existing balance), create a new account, or simply skip if they wish.
+----
+## what is Markdown?
+see [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
-####Usage
+> Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people "to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)".
+
+----
+## usage
+1. Write markdown text in this textarea.
+2. Click 'HTML Preview' button.
+
+----
+## markdown quick reference
+# headers
+
+*emphasis*
+
+**strong**
+
+* list
+
+>block quote
+
+    code (4 spaces indent)
+[links](https://wikipedia.org)
+
+----
+## changelog
+* 17-Feb-2013 re-design
+
+----
+## thanks
+* [markdown-js](https://github.com/evilstreak/markdown-js)

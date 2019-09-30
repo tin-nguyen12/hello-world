@@ -7,6 +7,15 @@ After the last item has been added to the checkout, a prompy will display with t
     Do you have a UniSA Loyatly Card?
     > Y - Yes | C - Create, Enter - Skip
 
-*(1) Y - Yes
- **User will be prompted to enter in the membership number
- **If the username 
+* (1) Y - Yes
+ ** User will be prompted to enter in the membership number.
+ ** If the username exists, the loyatly points will be added and it will return back to the cash register program.
+ ** If the username does not exist, it will ask if the user would like to create an account (see below).
+
+* (2) C - Create
+ ** User will be prompted to enter in the customer's name
+ ** The program will then create an account for that customer
+ ** It will then automatically add the required loyatly points to the account and return back to the cash register program.
+ 
+* (3) Enter - Skip
+ ** Choosing this option will ignore the first two options and continue with the program

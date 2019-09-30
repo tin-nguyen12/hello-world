@@ -11,13 +11,13 @@ Do you have a UniSA Loyatly Card?
 ```
 It will ask you to select between three options:
 *  **(1) Y - Yes**
-    * User will be prompted to enter in the membership number.
+    * User will be prompted to enter in the **membership number**.
     * If the username exists, the loyalty points will be added and it will return back to the cash register program.
     * If the username does not exist, it will ask if the user would like to create an account (see below).
     
 *  **(2) C - Create**
-    * User will be prompted to enter in the customer's name
-    * The program will then create an account for that customer
+    * User will be prompted to enter in the customer's **name**.
+    * The program will then create an account for that customer.
     * It will then automatically add the required loyatly points to the account and return back to the cash register program.
 
 *  **(3) Enter - Skip**

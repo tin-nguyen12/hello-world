@@ -1,5 +1,5 @@
-#Cash Register Manual
-
+# Cash Register Manual  
+The cash register software is a program that allows users to process transacation of various items such as groceries. 
 
 
 

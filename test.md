@@ -3,4 +3,4 @@ The loyalty program is a feature implemented in the CashRegister program which a
 
 #### Usage
 
-code things here
+    code things here

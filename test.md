@@ -11,9 +11,9 @@ To a common user, they wouldn't know what a float was therefore it was changed t
 Please enter starting cash register balance:
 ```
 Another change made was when the user was inputting the item's in for transacation, it didn't display back the item's name:
-```java
-Please enter the items name:  **asdasd**
-```
+
+  Please enter the items name:  **asdasd**
+
 
 ## Specific Improvements
 

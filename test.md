@@ -1,3 +1,12 @@
+# Code Optimisation and Improvements
+Below are the changes that was made to the program and system. The changes are split into two areas: general and specific. The general improvements include areas such as changing of variable names and the system prompt messages. It doesn't change the internal structure of the system, rather it is done to improve readability, making it maintainable, improving overall efficiency without altering the way it operates. The specific improvements includes fixes and additions to the program that will give it a different feel and the way it operates. 
+
+## General Improvements
+
+## Specific Improvements
+
+### Dynamic Receipt Names and Transaction Number
+
 # Cash Register Manual  
 The cash register software is a program that allows users to process transacation of various items such as groceries and other goods. It includes several important featues such as: an in-built loyalty program where customers can earn points for spending, multiple payment options, printing of receipts (if requested), and an automatically generated summary report of the transacations processed. The software also includes a secure authorisation systems where only authorised users can access the software. 
 

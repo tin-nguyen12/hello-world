@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
@@ -205,7 +206,9 @@ public class Receipt {
 			String receiptName = new SimpleDateFormat("yyyy-MM-dd-hhmm'_"+receiptNumber+".txt'").format(new Date());
 			receiptName = "Receipt_" + receiptName; 
 			
-			outputStream = new PrintWriter(new FileOutputStream(receiptName));
+			// Creating export folder if not exist
+			new File("Receipt").mkdir();
+			outputStream = new PrintWriter(new FileOutputStream("./Receipt/" + receiptName));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}

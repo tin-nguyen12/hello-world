@@ -9,7 +9,7 @@ Below are the changes that was made to the program and system. The changes are s
 The receipt class was modified to include the implementation of dynamic receipt names. Previously, every time a receipt was requested, the program would overwrite the existing file. With this change, the receipt file name will have a unique name (The date and time that the receipt was printed). A transaction number was also included in the receipt file. This is purely for aesthetics reasons as many receipts would keep track of the transaction number. 
 
 ### Allow User to Enter Quantity of Items
-The user will now be given the option to specific the quantity of the items that is being processed. This change was made so that it'll be more convinient for the user to process the item instead of having to repeatedtly enter the same item again. 
+The user will now be given the option to specific the quantity of the items that is being processed. This change was made so that it'll be more convenient for the user to process the item instead of having to repeatedly enter the same item again. The number of items desired is also reflected in the receipt output. 
 
 # Cash Register Manual  
 The cash register software is a program that allows users to process transacation of various items such as groceries and other goods. It includes several important featues such as: an in-built loyalty program where customers can earn points for spending, multiple payment options, printing of receipts (if requested), and an automatically generated summary report of the transacations processed. The software also includes a secure authorisation systems where only authorised users can access the software. 

@@ -61,7 +61,7 @@ It will ask you to select between three options:
 *  **(3) Enter - Skip**
     * Choosing this option will ignore the first two options and continue with the program
 
-* Note: Some dummy accounts (with balances) were created for the purpose of testing the loyalty program. Feel free to use them:
+**Note:** Some dummy accounts (with balances) were created for the purpose of testing the loyalty program. Feel free to use them:
     * 000000
     * 000001
     * 000002

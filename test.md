@@ -45,7 +45,7 @@ After the last item has been added to the checkout, a prompy will display with t
 
 ```java
 Do you have a UniSA Loyatly Card?
-> Y - Yes, C - Create, Enter - Skip
+> Y - Yes | C - Create | Enter - Skip
 ```
 It will ask you to select between three options:
 *  **(1) Y - Yes**

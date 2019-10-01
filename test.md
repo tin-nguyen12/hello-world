@@ -10,7 +10,7 @@ To a common user, they wouldn't know what a float was therefore it was changed t
 ```java
 Please enter starting cash register balance:
 ```
-Another change made was when the user was inputting the item's in for transacation, it didn't display back the item's name:
+Another change made was when the user was inputting the items in for transacation, the name wasn't dispayed back to the user:
 ```java
 Please enter the item's name: Coke
 Please enter the item's cost: 10
@@ -20,6 +20,7 @@ This was changed to reflect that:
 Please enter the item's name: Coke
 Please enter the Coke's cost: 10
  ```
+ Along with this, there were other system prompt changes made to improve the qualift of life of the system.
 
 ## Specific Improvements
 

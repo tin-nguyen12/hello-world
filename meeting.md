@@ -46,7 +46,7 @@ This meeting took the longest as we had to come up with new features to implemen
   * Allow the receipt to be created into a text file
   * Implement a loyalty program where users can earn points for each transaction
 
-* **Bijay: **
+* **Bijay:**
   * Summary report where it displays that days transaction details
   * Multiple different payment system such as cash or card
 
@@ -60,7 +60,7 @@ This was our last meeting and it was important to end this assignment on a high 
   * Implement dynamic receipt names
   * Allow user to enter quantity of item
 
-* **Bijay: **
+* **Bijay:**
   * Optimise program to create folders for each of the receipt files and the reports
   * Implement user input validation
 

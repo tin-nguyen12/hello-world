@@ -7,12 +7,12 @@ There were four main meetings that were made throughout the assignment. Each mee
 During this meeting, we discussed which group member was responsible for the bug fixes in milestone 1. We came to the following conclusion:
   
 * **Anthony:**
- * Incorrect change values
- * No ending cash register balance displayed
+  * Incorrect change values
+  * No ending cash register balance displayed
 
 * **Tin:**
- * Makefile compilation error
- * Lack of dollar signs before cash values
+  * Makefile compilation error
+  * Lack of dollar signs before cash values
 
 * **Bijay:**
- * Spelling error prompts
+  * Spelling error prompts
